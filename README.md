@@ -9,7 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-smirkwolrk/smirkwolrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+-?[](	https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
+!	(https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
