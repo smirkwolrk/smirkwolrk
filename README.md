@@ -1,5 +1,5 @@
 # sobre mim **vitor**
-## **mr.lob**
+## **mr.lob.gamer**
 -:+1:o meu [e-mail](vitor.bueno27@escola.pr.gov.br)
 - 👋 olá ,eu sou @smirkwolrk-
 - 👀 eu estou entereçado em apreder novas limguagems
